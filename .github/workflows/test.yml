@@ -1,6 +1,6 @@
 name: Automated Test for find_lowest_number.py
 
-on: [push]
+on: push
 
 jobs:
   test-lowest-number:
